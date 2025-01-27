@@ -1,9 +1,4 @@
-include:aws-cn
-
-# All .aws domains
 aws
-
-# AWS
 acmvalidations.com
 acmvalidationsaws.com
 aesworkshops.com
@@ -41,7 +36,7 @@ cloudfront.net
 containersonaws.com
 elasticbeanstalk.com
 thinkboxsoftware.com
-
-# AWS DNS
-regexp:.+\.amzndns\.(co\.uk|com|net|org)$
-regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
+amzndns.co.uk
+amzndns.co.com
+amzndns.co.net
+amzndns.co.org
